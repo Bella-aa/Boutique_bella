@@ -47,6 +47,18 @@ This is the landing page of the website.
 
 * All features presented page by page:
 
+### Landing Page
+
+* This is the landing page, wher the user sees upon visiting the website. The user will see buttons to Login button in the navbar and this is where they will register to shop with us boutique bella and they will also see a range of products within the store.
+
+![Screenshot 2023-04-08 105740](https://user-images.githubusercontent.com/103276740/230715275-fab39eba-430d-4f32-a516-4e163a7e35a5.png)
+
+
+
+
+
+
+
 
 
 
