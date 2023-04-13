@@ -8,9 +8,9 @@ for(var i = 0; i < updateBtns.length; i++){
 
         console.log('USER:', user)
 		if (user === 'AnonymousUser'){
-			console.log('Not logged in')
+			console.log('Not logged in')}
 			
-		}else{
+		else{
 			console.log('User is authenticated, sending data..')
 		}
 
@@ -35,5 +35,6 @@ function updateUserOrder(productId, action){
 		})
 		.then((data) => {
 		    console.log('data:', data)
+			location.reload()
 		})
 }

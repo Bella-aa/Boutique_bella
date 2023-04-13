@@ -107,8 +107,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
-    }
+   }
 }
+
+#DATABASES = {
+   #  'default': dj_database_url.parse('postgres://quwerbrk:L3TOJz7xeZNcStRhBPl1hl5ODIDhg4iy@manny.db.elephantsql.com/quwerbrk')
+ #}
+    
 
 
 # Password validation
